@@ -1,0 +1,6 @@
+xpack.security.enabled: false
+node.name: netology_test
+path.data: /var/lib
+path:
+  repo:
+    - /elasticsearch-8.1.0/snapshots
